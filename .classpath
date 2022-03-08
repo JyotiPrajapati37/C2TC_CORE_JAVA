@@ -8,5 +8,6 @@
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="src" path="BsicJv"/>
 	<classpathentry kind="src" path="Day1-Java-Program"/>
+	<classpathentry kind="src" path="Day2-Java-Program"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
